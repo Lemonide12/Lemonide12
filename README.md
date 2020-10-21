@@ -23,5 +23,5 @@
 <img align=left alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width= 30px />
 <img align=left alt="Markdown" src="https://cdn0.iconfinder.com/data/icons/octicons/1024/markdown-512.png" width= 30px />
 
-[instagram]: https://www.instagram.com/kitberlau
+[instagram]: https://www.instagram.com/kitbertlau
 
