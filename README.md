@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 ## I'm a 1st-year college student at Bunda Mulia University
-- 👦🏻🖥️ Still learning for Frontend Development skill and many more
-- ✔️🌈 2020 goal: Mastered Frontend Development skill
+- 👦🏻🖥️ Still improving my self
+- ✔️🌈 2020 goal: Learn CPP including it's OOP and make a project with it
 - 🏆🔥 I like to participate in the CP competition !
 - ⚽🏀 I like sports too !
-- 🛠👨‍💻 Current Project : Building my profile website
+- 🛠👨‍💻 Current Project : Planning to build my game that based on user choice
 
 ### Connect with me : 
 [<img align=left src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width= 25px />][instagram]
