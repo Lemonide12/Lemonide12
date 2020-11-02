@@ -8,7 +8,8 @@
 - 🛠👨‍💻 Current Project : Planning to build my game that based on user choice
 
 ### Connect with me : 
-[<img align=left src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" width= 25px />][instagram]
+[<img align=left src="https://img.icons8.com/fluent/2x/instagram-new.png" width= 35px />][instagram]
+[<img align=left src="https://img.icons8.com/fluent/2x/twitter.png" width= 30px />][twitter]
 
 <br />
 
@@ -34,5 +35,5 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lemonide12.visitor-badge)
 
 [instagram]: https://www.instagram.com/kitbertlau
-
+[twitter]: https://twitter.com/Lemonide12
 
