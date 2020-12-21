@@ -2,10 +2,10 @@
 
 ## I'm a 1st-year college student at Bunda Mulia University
 - 👦🏻🖥️ Still improving my self
-- ✔️🌈 2020 goal: Learn CPP including it's OOP and make a project with it
+- ✔️🌈 2020 goal: 2020 is almost over and i will update this soon in 2021
 - 🏆🔥 I like to participate in the CP competition !
 - ⚽🏀 I like sports too !
-- 🛠👨‍💻 Current Project : Planning to build my game that based on user choice
+- 🛠👨‍💻 Current Project : -
 
 ### Connect with me : 
 [<img align=left src="https://img.icons8.com/fluent/2x/instagram-new.png" width= 35px />][instagram]
