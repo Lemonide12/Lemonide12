@@ -11,7 +11,5 @@
 
 <br />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Lemonide12.visitor-badge)
-
 [instagram]: https://www.instagram.com/kitbertlau
 
