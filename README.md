@@ -9,10 +9,6 @@
 ### Connect with me : 
 [<img align=left src="https://img.icons8.com/fluent/2x/instagram-new.png" width= 35px />][instagram]
 
-<br /> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lemonide12)](https://github.com/anuraghazra/github-readme-stats)
-
 <br />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Lemonide12.visitor-badge)
