@@ -2,7 +2,7 @@
 
 ## I'm a 1st-year college student at Bunda Mulia University
 - 👦🏻🖥️ Still improving my self.
-- ✔️🌈 2021 goal : Rather not to say
+- ✔️🌈 2021 goal : --
 - 🏆🔥 I like to participate in the CP competition !
 - 🛠👨‍💻 Current Project : --
 
